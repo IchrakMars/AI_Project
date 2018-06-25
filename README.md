@@ -9,6 +9,7 @@ The search algorithms implemented:
 -Iterative limited depth research.
 
 ==A video and a documentation are attached to this project (in french).  
+Link to the video : https://mega.nz/#!m0o2wYLZ!AGBsWdUev-_f6Dgof4MYcH5P0FiA-MC-ar8whS4mp50 
 
 
 # Projet Intelligence Artificielle -- [French version]
@@ -21,4 +22,5 @@ Les algorithmes de recherche implémentés :
 
 -Recherche en profondeur limitée itérative.
 
-==Une vidéo et une documentation sont jointes à ce projet.
+==Une vidéo et une documentation sont jointes à ce projet (en français).
+Lien vers la vidéo : https://mega.nz/#!m0o2wYLZ!AGBsWdUev-_f6Dgof4MYcH5P0FiA-MC-ar8whS4mp50 
