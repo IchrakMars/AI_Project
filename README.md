@@ -23,4 +23,5 @@ Les algorithmes de recherche implémentés :
 -Recherche en profondeur limitée itérative.
 
 ==Une vidéo et une documentation sont jointes à ce projet (en français).
+
 Lien vers la vidéo : https://mega.nz/#!m0o2wYLZ!AGBsWdUev-_f6Dgof4MYcH5P0FiA-MC-ar8whS4mp50 
