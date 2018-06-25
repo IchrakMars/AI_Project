@@ -1,0 +1,2 @@
+R9. si cruchesAetB (0, 2) alors cruchesAetB ( 2 , 0 )
+R10. si cruchesAetB (2, ?y) alors cruchesAetB ( 0 , ?y )

@@ -1,0 +1,3 @@
+R1: si (?x, ?y) et ?x <4 alors ( 4, ?y )
+R9. si (0, 2) alors ( 2 , 0 )
+R10. si  (2, ?y) alors ( 0 , ?y )
