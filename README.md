@@ -5,6 +5,7 @@ Developing an AI resolver of general problems. This resolver will allow the read
 The search algorithms implemented:
 
 -A * with two heuristics specific to the chosen problem, the choice is made at the interface level.
+
 -Iterative limited depth research.
 
 ==A video and a documentation are attached to this project (in french).  
@@ -17,6 +18,7 @@ Développement d’un résolveur de problèmes généraux. Ce résolveur va perm
 Les algorithmes de recherche implémentés : 
 
 -A* avec deux heuristiques spécifiques au problème au choix, le choix se fait au niveau de l’interface.
+
 -Recherche en profondeur limitée itérative.
 
 ==Une vidéo et une documentation sont jointes à ce projet.
